@@ -167,6 +167,9 @@ footer {
     width: 220px;
     margin-right: 334px;
   }
+  textarea {
+    resize: none;
+  }
 }
 
 
